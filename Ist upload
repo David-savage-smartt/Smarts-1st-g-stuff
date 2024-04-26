@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dantex007 - Elysian Titans</title>
+</head>
+<body>
+  <header>
+    <h1>savvyx</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#portfolio">Portfolio</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <section id="about">
+      <h2>About Me</h2>
+      <p> Hi guys i'm daniel by name my jouney  through th world of art is a journey filled with a lot 
+        of fun. I have Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur reiciendis ab, dolores vitae iste dolor nihil sit nam pariatur aut, esse excepturi accusamus ea. In similique laborum aliquid magnam fuga.
+      </p>
+    </section>
+    <section id="portfolio">
+      <h2>Portfolio</h2>
+      <p>Here is a showcase of some of my recent artworks.</p>
+      <img src="a.lnk" alt="Artwork 1">
+      <img src="b.lnk" alt="Artwork 2">
+      </section>
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>This is my contact information.</p>
+      <p>Email: <a href="fogofoluwa.agboola@stu.cu.edu.ng">fogofoluwa.agboola@stu.cu.edu.ng</a></p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2024 Dantex1234</p>
+  </footer>
+</body>
+</html>
